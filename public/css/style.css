@@ -1,0 +1,53 @@
+.a1:hover,.a2:hover,.a3:hover,.a4:hover {
+	background-color: lightgray;
+	color: #007BFF;
+}
+
+.a1,.a2,.a3,.a4 {
+	background-color: #007BFF;
+	color: white;
+	border-radius: 15px 50px 30px; 
+}
+
+.a1:active, .a2:active, .a3:active, .a4:active {
+	background-color: white;
+	color: #007BFF;
+}
+
+body>div>ul {
+	border-radius: 15px;
+ 	border: 2px solid #007BFF;
+}
+
+.p1 {
+	font-size: 7vw;
+	letter-spacing: 1px;
+	color: white;
+  	text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+.p1:hover {
+	font-size: 8vw;
+}
+
+.jumbotron{
+    background-color: rgb(48, 61, 59);
+	margin: 2%;
+}
+
+
+.nav-prin{
+    height:20vw;
+    background-color: rgb(130, 130, 134);
+    
+}
+
+.top-bar{
+    border-bottom:solid 1px black ;
+    border-top:solid 1px black ;
+    height: 13%;
+}
+
+body{
+	background-color: rgb(252, 240, 225);
+}

@@ -1,0 +1,41 @@
+
+.comment1{
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	color: green;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    border: solid #007BFF 1px;
+    background-color: white;
+	font-size: 20px;
+	text-align: center;
+}
+
+.comment2{
+	margin: 0 auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 10px;
+	width: 70%;
+	border-radius: 15px;
+	background-color: white
+}
+
+.p0 {
+	padding: 0px;
+	margin: 0px;
+	margin-top: 3px;
+	color: black;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.p2 {
+	color: gray;
+	font-size: 12px;
+}
+
+.p3 {
+	color: blue;
+}

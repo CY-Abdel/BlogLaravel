@@ -1,0 +1,10 @@
+.form{
+    margin: auto;
+    margin-top: 20px;
+    width:70%;
+    padding:30px;
+}
+
+.form:hover {
+	border: solid #007BFF 1px;
+}
